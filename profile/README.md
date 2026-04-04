@@ -21,7 +21,8 @@ Legion is a self-hosted orchestrator for AI coding agents. It watches your repos
 ## Install
 
 ```
-claude install legion
+/plugin marketplace add runlegion/legion
+/plugin install
 ```
 
 ## Links
